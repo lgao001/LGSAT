@@ -4,7 +4,8 @@ Pretrain model: [TransT](https://drive.google.com/drive/folders/1GVQV1GoW-ttDJRR
 Raw Result: [Baidu:5qry](https://pan.baidu.com/s/1k5n9qm55Bm1DqANlw_5LeA)  
 
 
-![Trans-HST](pipline.png)
+![LGAST](noval.pdf)
+![LGAST](pipline.pdf)
 
 ## Usage
 
