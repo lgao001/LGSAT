@@ -1,7 +1,5 @@
 # Local-Global Self-Attention for Transformer-based Object Tracking (LGSAT)
-Our Model Weight: [Baidu:vvw7](https://pan.baidu.com/s/131DRXutRF8bJpvTgVIj26g)  
-Pretrain model: [TransT](https://drive.google.com/drive/folders/1GVQV1GoW-ttDJRRqaVAtLUtubtgLhWCE)  
-Raw Result: [Baidu:5qry](https://pan.baidu.com/s/1k5n9qm55Bm1DqANlw_5LeA)  
+
 
 
 ![LGAST](noval.png)
@@ -10,17 +8,17 @@ Raw Result: [Baidu:5qry](https://pan.baidu.com/s/1k5n9qm55Bm1DqANlw_5LeA)
 ## Usage
 
 ### Installation  
-Create and activate a conda environment, we've tested on this env: You can follow the env setting of [TransT](https://github.com/chenxin-dlut/TransT).   
+Create and activate a conda environment, we've tested on this env: You can follow the env setting of [SwinTrack](https://github.com/LitingLin/SwinTrack).   
 
 ### Data Preparation  
 * RGB training datasets:  
   * [GOT-10K](http://got-10k.aitestunion.com/downloads)
   * [COCO](https://cocodataset.org/#home)
-  * [LaSOT](https://pan.baidu.com/s/1UbcQIU-Fpps7Jqq4WHRRkA#list/path=%2FLaSOT%2Fzip)
+  * [LaSOT](https://github.com/HengLan/LaSOT_Evaluation_Toolkit)
   * [TrackingNet](https://github.com/SilvioGiancola/TrackingNet-devkit)
 
 ### Path Setting  
-Following [TransT](https://github.com/chenxin-dlut/TransT)
+Following [SwinTrack](https://github.com/LitingLin/SwinTrack)
 
 ### Testing  
 ```
