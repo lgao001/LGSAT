@@ -4,8 +4,8 @@ Pretrain model: [TransT](https://drive.google.com/drive/folders/1GVQV1GoW-ttDJRR
 Raw Result: [Baidu:5qry](https://pan.baidu.com/s/1k5n9qm55Bm1DqANlw_5LeA)  
 
 
-![LGAST](noval.pdf)
-![LGAST](pipline.pdf)
+![LGAST](noval.png)
+![LGAST](pipline.png)
 
 ## Usage
 
@@ -26,10 +26,11 @@ python pysot_toolkit/test.py
 
 ## Citation  
 ```
-@article{gao2023transformer,
-  title={A transformer-based network for hyperspectral object tracking},
-  author={Gao, Long and Chen, Langkun and Liu, Pan and Jiang, Yan and Xie, Weiying and Li, Yunsong},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={61},
-  pages={1--11},
-  year={2023},
+@article{chena2024local,
+  title={Local-Global Self-Attention for Transformer-Based Object Tracking},
+  author={Chena, Langkun and Gaoa, Long and Jiangb, Yan and Lia, Yunsong and Hea, Gang and Ningc, Jifeng},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2024},
+  publisher={IEEE}
+}
+```
